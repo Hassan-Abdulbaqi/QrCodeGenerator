@@ -1,0 +1,15 @@
+C:\Users\hamoo\source\repos\QR Code Generator\bin\Debug\QR Code Generator.exe.config
+C:\Users\hamoo\source\repos\QR Code Generator\bin\Debug\QR Code Generator.exe
+C:\Users\hamoo\source\repos\QR Code Generator\bin\Debug\QR Code Generator.pdb
+C:\Users\hamoo\source\repos\QR Code Generator\bin\Debug\QR Code Generator.xml
+C:\Users\hamoo\source\repos\QR Code Generator\bin\Debug\QRCoder.dll
+C:\Users\hamoo\source\repos\QR Code Generator\obj\Debug\QR Code Generator.vbproj.AssemblyReference.cache
+C:\Users\hamoo\source\repos\QR Code Generator\obj\Debug\QR Code Generator.vbproj.SuggestedBindingRedirects.cache
+C:\Users\hamoo\source\repos\QR Code Generator\obj\Debug\QR_Code_Generator.Form1.resources
+C:\Users\hamoo\source\repos\QR Code Generator\obj\Debug\QR_Code_Generator.Resources.resources
+C:\Users\hamoo\source\repos\QR Code Generator\obj\Debug\QR Code Generator.vbproj.GenerateResource.cache
+C:\Users\hamoo\source\repos\QR Code Generator\obj\Debug\QR Code Generator.vbproj.CoreCompileInputs.cache
+C:\Users\hamoo\source\repos\QR Code Generator\obj\Debug\QR Code Generator.vbproj.CopyComplete
+C:\Users\hamoo\source\repos\QR Code Generator\obj\Debug\QR Code Generator.exe
+C:\Users\hamoo\source\repos\QR Code Generator\obj\Debug\QR Code Generator.xml
+C:\Users\hamoo\source\repos\QR Code Generator\obj\Debug\QR Code Generator.pdb
